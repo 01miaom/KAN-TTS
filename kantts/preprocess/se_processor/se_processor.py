@@ -7,6 +7,7 @@ from .D_TDNN import DTDNN
 import logging
 import argparse
 from glob import glob
+import sys
 
 
 logging.basicConfig(
